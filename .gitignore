@@ -1,1 +1,15 @@
 
+.vs
+.vscode
+Flappy Bird_BurstDebugInformation_DoNotShip
+Flappy Bird_Data
+Logs
+MonoBleedingEdge
+UserSettings
+.vsconfig
+Flappy Bird.sln
+Floppy Crow.sln
+.collabignore
+Assembly-CSharp.csproj
+obj
+Library
